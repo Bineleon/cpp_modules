@@ -17,9 +17,9 @@ make
 - **CPP02** — Ad-hoc polymorphism & class design: operator overloading and Orthodox Canonical Form (Rule of Three).
 - **CPP03** — Inheritance: base/derived classes, method overriding, and proper ctor/dtor chains.
 - **CPP04** — Subtype polymorphism: virtual methods, abstract classes, interfaces, and deep copies.
-- **CPP05** — Exceptions: error handling with `try/catch`, custom exceptions, and RAII mindset.
+- **CPP05** — Exceptions: error handling with `try/catch`, custom exceptions.
 - **CPP06** — Type casts: `static_cast`, `dynamic_cast`, `reinterpret_cast`, `const_cast`, and safe downcasting.
-- **CPP07** — Templates: function/class templates and generic programming basics.
+- **CPP07** — Templates: function/class templates.
 - **CPP08** — STL & iterators: containers, iterators, algorithms, and custom iterable types.
 - **CPP09** — Algorithms with STL: parsing + problem-solving (BitcoinExchange, RPN, PmergeMe).
 
