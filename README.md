@@ -11,6 +11,7 @@ Every exercise can be **compiled individually** using its own `Makefile`.
 cd cpp_09/ex00
 make
 ./btc input.txt
+```
 
 ## Modules Overview
 - **CPP01** — Basics: stack vs heap, pointers & references, simple classes, and file I/O.
