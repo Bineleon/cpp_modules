@@ -6,7 +6,7 @@ Each module focuses on learning key concepts of C++ and Object-Oriented Programm
 Each module is divided into several **independent exercises** (`ex00`, `ex01`, etc.).  
 Every exercise can be **compiled individually** using its own `Makefile`.
 
-### 🛠️ Example
+### Example
 ```bash
 cd cpp_09/ex00
 make
